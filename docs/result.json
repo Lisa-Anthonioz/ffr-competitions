@@ -1,1 +1,97 @@
-[{"team": "Aix Universite Rugby"}, {"team": "SC Salonais"}, {"team": "Aix Universite Rugby"}, {"team": "Rugby Club Fos Sur Mer"}, {"team": "Aix Universite Rugby"}, {"team": "US Valreassienne Rugby"}, {"team": "Portivechju Rugby"}, {"team": "Aix Universite Rugby"}, {"team": "Aix Universite Rugby"}, {"team": "Rugby Club Six Fours - Le Brusc"}, {"team": "Aix Universite Rugby"}, {"team": "Pennes Mirabeau Cadeneaux Rug"}, {"team": "Aix Universite Rugby"}, {"team": "RC Lucciana"}, {"team": "Aix Universite Rugby"}, {"team": "RC Dignois"}, {"team": "Aix Universite Rugby"}, {"team": "Aix Universite Rugby"}, {"team": "RC de La Vallee Du Gapeau"}]
+[
+  {
+    "team": "Aix Universite Rugby",
+    "opponent": "Pennes Mirabeau Cadeneaux Rug",
+    "date": "13Oct."
+  },
+  {
+    "team": "SC Salonais",
+    "opponent": "Aix Universite Rugby",
+    "date": "20Oct."
+  },
+  {
+    "team": "Aix Universite Rugby",
+    "opponent": "RC Lucciana",
+    "date": "03Nov."
+  },
+  {
+    "team": "Rugby Club Fos Sur Mer",
+    "opponent": "Aix Universite Rugby",
+    "date": "10Nov."
+  },
+  {
+    "team": "Aix Universite Rugby",
+    "opponent": "RC Dignois",
+    "date": "17Nov."
+  },
+  {
+    "team": "US Valreassienne Rugby",
+    "opponent": "Aix Universite Rugby",
+    "date": "01D\u00e9c."
+  },
+  {
+    "team": "Portivechju Rugby",
+    "opponent": "Aix Universite Rugby",
+    "date": "08D\u00e9c."
+  },
+  {
+    "team": "Aix Universite Rugby",
+    "opponent": "RC de La Vallee Du Gapeau",
+    "date": "15D\u00e9c."
+  },
+  {
+    "team": "Aix Universite Rugby",
+    "opponent": "Club Rugby Amateur de Balagne",
+    "date": "12Janv."
+  },
+  {
+    "team": "Rugby Club Six Fours - Le Brusc",
+    "opponent": "Aix Universite Rugby",
+    "date": "19Janv."
+  },
+  {
+    "team": "Aix Universite Rugby",
+    "opponent": "RC Orangeois",
+    "date": "26Janv."
+  },
+  {
+    "team": "Pennes Mirabeau Cadeneaux Rug",
+    "opponent": "Aix Universite Rugby",
+    "date": "02Fevr."
+  },
+  {
+    "team": "Aix Universite Rugby",
+    "opponent": "SC Salonais",
+    "date": "23Fevr."
+  },
+  {
+    "team": "RC Lucciana",
+    "opponent": "Aix Universite Rugby",
+    "date": "02Mars"
+  },
+  {
+    "team": "Aix Universite Rugby",
+    "opponent": "Rugby Club Fos Sur Mer",
+    "date": "09Mars"
+  },
+  {
+    "team": "RC Dignois",
+    "opponent": "Aix Universite Rugby",
+    "date": "16Mars"
+  },
+  {
+    "team": "Aix Universite Rugby",
+    "opponent": "US Valreassienne Rugby",
+    "date": "30Mars"
+  },
+  {
+    "team": "Aix Universite Rugby",
+    "opponent": "Portivechju Rugby",
+    "date": "06Avr."
+  },
+  {
+    "team": "RC de La Vallee Du Gapeau",
+    "opponent": "Aix Universite Rugby",
+    "date": "13Avr."
+  }
+]

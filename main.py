@@ -23,6 +23,8 @@ matches = []
 for row in table:
     match = {}
     match['team'] = row.find('span', attrs={'class': 'nom-club'}).text
+    match['opponent'] = row.findAll('span', attrs={'class': 'nom-club'})[1].text
+    match['date'] = row.find('div', attrs={'class': 'date'}).text
     matches.append(match)
 
 json_filename = 'docs/result.json'
